@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/axelkennedal/SyncBoi/KTH/Year5/DD1388 Rester/GoogleTestsExample/src/ExampleClass.cpp
+ExampleClass.h
+/Users/axelkennedal/SyncBoi/KTH/Year5/DD1388 Rester/GoogleTestsExample/src/ExampleClass.h
+iostream
+-
+
+/Users/axelkennedal/SyncBoi/KTH/Year5/DD1388 Rester/GoogleTestsExample/src/ExampleClass.h
+
