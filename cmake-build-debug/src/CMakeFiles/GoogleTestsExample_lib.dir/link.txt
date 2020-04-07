@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libGoogleTestsExample_lib.a  CMakeFiles/GoogleTestsExample_lib.dir/ExampleClass.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libGoogleTestsExample_lib.a

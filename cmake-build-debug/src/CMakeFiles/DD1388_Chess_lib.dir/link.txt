@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libDD1388_Chess_lib.a  CMakeFiles/DD1388_Chess_lib.dir/ExampleClass.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libDD1388_Chess_lib.a

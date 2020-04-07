@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/GoogleTestsExample_run.dir/main.cpp.o  -o GoogleTestsExample_run src/libGoogleTestsExample_lib.a 
